@@ -1,4 +1,4 @@
-# Talent Match App README
+# Talent Match App 
 
 ## Overview
 The Talent Match App is a Streamlit application that helps HR teams evaluate resumes against job descriptions using machine learning. It leverages Google's Gemini Pro API to generate content and score resumes based on job descriptions, making it easier to identify the best candidates for a job.
