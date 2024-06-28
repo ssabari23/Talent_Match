@@ -49,3 +49,6 @@ https://sanjayc.medium.com/compute-the-match-percentage-of-a-candidate-for-a-job
 https://noerbarry.medium.com/linkedin-resume-validation-using-ats-system-method-with-nlp-in-python-streamlit-4d0be4da4e6
 https://github.com/krishnaik06/Google-Gemini-Crash-Course/tree/main/atsllm
 https://github.com/scsanjay/jd_resume_match_percentage
+
+
+
