@@ -38,7 +38,14 @@ Navigate back to the home page to start a new evaluation.
 If the app fails to start, ensure all required packages are installed.
 Verify the Google API key is correctly set in the .env file.
 Check for any file permission issues when uploading files.
+
 ### Future Enhancements
 Add support for additional file formats for resumes and job descriptions.
 Improve the UI/UX for better user interaction.
 Implement more robust error handling and logging.
+
+### Some Useful Links
+https://sanjayc.medium.com/compute-the-match-percentage-of-a-candidate-for-a-job-role-aa3adc7bfbb5
+https://noerbarry.medium.com/linkedin-resume-validation-using-ats-system-method-with-nlp-in-python-streamlit-4d0be4da4e6
+https://github.com/krishnaik06/Google-Gemini-Crash-Course/tree/main/atsllm
+https://github.com/scsanjay/jd_resume_match_percentage
